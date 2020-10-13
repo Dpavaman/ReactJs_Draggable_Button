@@ -1,6 +1,6 @@
 ## React Draggable Button
 
-`This App uses npm react-draggable package inorder to make an element draggable on the screen`
+`This App uses npm react-draggable package in order to make an element draggable on the screen`
 
 * **Button is Initially positioned at X:0 and Y:0**
 * **Click on the button and drag it anywhere on the screen**
